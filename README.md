@@ -1,3 +1,3 @@
 # Bootstrap
 
-Projekt frizerski salon
+SmartNinja -> Projekt frizerski salon
