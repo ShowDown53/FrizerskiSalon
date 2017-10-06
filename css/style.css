@@ -59,8 +59,8 @@ h2 {
 :target:before {
 content: "";
 display: block;
-height: 70px; /* fixed header height*/
-margin: -70px 0 0 0; /* negative fixed header height */
+height: 40px; /* fixed header height*/
+margin: -40px 0 0 0; /* negative fixed header height */
 } /* dodal ker je skok na specifično sekcijo strani bil zamanknjen - našel na spletu */
 
 .carousel-control {
@@ -148,4 +148,8 @@ a:focus {
 
 a:hover {
   text-decoration: none;
+}
+
+#ponudba {
+  padding-top: -70px;
 }
